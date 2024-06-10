@@ -1,3 +1,4 @@
+import DataTable from "./_components/DataTable";
 import Graph from "./_components/Graph";
 import Header from "./_components/Header";
 import Sidbar from "./_components/Sidbar";
@@ -14,7 +15,7 @@ export default function Home() {
       <Header />
       <TopCards />
       <Graph />
-
+      <DataTable />
     </main>
   );
 }

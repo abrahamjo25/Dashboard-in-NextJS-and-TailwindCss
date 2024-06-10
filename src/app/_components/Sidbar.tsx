@@ -7,7 +7,7 @@ const Sidbar = () => {
     <div className="flex">
       <div className="fixed w-20  shadow-md h-screen flex flex-col p-4 bg-white justify-between items-end">
         <div className="flex flex-col items-center">
-          <div className="bg-purple-800 rounded-lg p-3 inline-block text-white">
+          <div className="bg-cyan-800 rounded-lg p-3 inline-block text-white">
             <RxSketchLogo size={20} />
           </div>
           <div className="bg-gray-100 hover:bg-gray-200 cursor-pointer rounded-lg p-3 inline-block my-6">
