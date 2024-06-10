@@ -10,7 +10,7 @@ const Graph = () => {
       </div>
       <div className="lg:col-span-2 col-span-1 p-4 bg-white rounded-lg">
         <div className="h-80">
-            <h2>Setting</h2>
+            <h2 className="text-center">Setting</h2>
         </div>
       </div>
     </div>
